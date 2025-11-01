@@ -140,15 +140,13 @@ project/
 - True Positives: 160
 
 ### Visualization Results
-<img width="864" height="274" alt="image" src="https://github.com/user-attachments/assets/912374dc-c57d-4291-9038-cc4b641d0877" />
-
-![Model Performance Comparison]
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/20bfe517-2030-4a3e-a4a3-e384db67530c" />
 *Figure 1: Comparative performance metrics across both models*
 
-![Confusion Matrices](results/confusion_matrices.png)
+<img width="1446" height="590" alt="image" src="https://github.com/user-attachments/assets/38d72a88-d977-420c-bbb3-3ed2b0d7aace" />
 *Figure 2: Side-by-side confusion matrices for Random Forest and SVM*
 
-![Model Accuracy Comparison](results/model_comparison.png)
+<img width="864" height="274" alt="image" src="https://github.com/user-attachments/assets/912374dc-c57d-4291-9038-cc4b641d0877" />
 *Figure 3: Detailed accuracy, precision, recall, and F1-score comparison*
 
 ## Analysis and Insights
