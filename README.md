@@ -140,8 +140,9 @@ project/
 - True Positives: 160
 
 ### Visualization Results
+<img width="864" height="274" alt="image" src="https://github.com/user-attachments/assets/912374dc-c57d-4291-9038-cc4b641d0877" />
 
-![Model Performance Comparison](results/performance_comparison.png)
+![Model Performance Comparison]
 *Figure 1: Comparative performance metrics across both models*
 
 ![Confusion Matrices](results/confusion_matrices.png)
