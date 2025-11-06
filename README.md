@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project implements machine learning models to predict stock market movements (up/down) based on sentiment analysis of financial news headlines. The research addresses the critical question of whether news sentiment can effectively predict short-term stock price movements, which is valuable for algorithmic trading, risk management, and investment decision-making.
+This project takes advantage of machine-learning algorithms to accurately forecast the movements (up/down) of stock prices directed by a sentiment-analysis of financial headlines. The object of inquiry is whether the news sentiment can be utilized to forecast short-term changes in the prices of stocks; thus, this work is important from the standpoint of algorithmic trading and risk management and decisions concerning investments. 
 
-The project demonstrates that financial news headlines contain predictive signals for stock market movements, achieving over 84% accuracy using ensemble methods. This approach could assist traders and investors in making more informed decisions by incorporating news sentiment into their analysis.
+The project shows that the financial headlines contain predictive signals of price movements on the securities market, given an accuracy of more than 84% by the ensemble methods used. By taking advantage of these sentiments from news sources to assess the movements of stock prices, those trading and investing can make better decisions by warning of price movements.
 
 ## Dataset Information
 
