@@ -11,9 +11,9 @@ The project shows that the financial headlines contain predictive signals of pri
 **Source**: [Kaggle - Stock Sentiment Analysis Using News Headlines](https://www.kaggle.com/code/siddharthtyagi/stock-sentiment-analysis-using-news-headlines)
 
 **Dataset Characteristics**:
-- **Size**: 1,989 records spanning from January 2000 to July 2016
-- **Features**: 27 columns (Date, Label, Top1-Top25 news headlines)
-- **Target Variable**: Binary classification (0 = Stock Down, 1 = Stock Up)
+- **Size**: 1,989 records between January of 2000 and July 2016
+- **Features**: 27 columns are there with date, label, top 1-25 headlines of news
+- **Target**: Binary classification is performed as 0 for Stock down and 1 for stock up
 - **Data Split**: 
   - Training: Before January 1, 2015 (1,611 samples)
   - Testing: After December 31, 2014 (378 samples)
